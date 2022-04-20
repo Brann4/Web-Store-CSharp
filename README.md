@@ -1,1 +1,2 @@
-# Web-Store-C-
+# Web-Store-CShap
+Creacion de WebStore con Csharp POO
